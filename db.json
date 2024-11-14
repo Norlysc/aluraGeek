@@ -1,22 +1,10 @@
 {
   "productos": [
     {
-      "id": "1",
-      "nombre": "Nintendo NES",
-      "precio": 79.99,
-      "imagen": "https://images.pexels.com/photos/1637439/pexels-photo-1637439.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
       "id": "3",
       "nombre": "Super Nintendo (SNES)",
       "precio": 99.99,
       "imagen": "https://images.pexels.com/photos/4502978/pexels-photo-4502978.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-      "id": "4",
-      "nombre": "Cartucho Super Mario Bros. NES",
-      "precio": 19.99,
-      "imagen": "https://cdn.pixabay.com/photo/2016/07/30/21/03/mario-1558012_1280.jpg"
     },
     {
       "id": "5",
@@ -29,12 +17,6 @@
       "nombre": "Sega Genesis",
       "precio": 89.99,
       "imagen": "https://cdn.pixabay.com/photo/2017/04/04/18/14/video-game-console-2202631_960_720.jpg"
-    },
-    {
-      "id": "8",
-      "nombre": "Atari 2600",
-      "precio": 49.99,
-      "imagen": "https://images.pexels.com/photos/1373100/pexels-photo-1373100.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": "c5db",
