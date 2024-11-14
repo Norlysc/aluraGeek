@@ -15,6 +15,8 @@
 - **Tema Noche**: El usuario puede cambiar el tema para un descanso visual.
 
 ---
+## Figma
+- https://www.figma.com/design/eSIemWMmHT750XP4D810yz/AluraGeek---new?node-id=14-123&node-type=frame&t=qVbVQiwKUFhtUzla-0
 
 ## 🛠️ Tecnologías Utilizadas
 
