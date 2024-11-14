@@ -1,0 +1,34 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de compilación y distribución
+/dist/
+/build/
+
+# Archivos de configuración de IDEs o editores de código
+.vscode/
+/.idea/
+/*.sublime-project
+/*.sublime-workspace
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración personal
+.env
+
+# Archivos de cache de dependencias
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de dependencias globales de npm
+.npm/
+
+# Archivos de backups o temporales
+*.bak
+*.swp
