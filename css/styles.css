@@ -81,8 +81,7 @@ main {
     transition: .4s;
     border-radius: 20px;
     box-shadow: #0c141a;
-    width: 70px;
-    height: 70px;
+  
 }
 
 .slider:before {
